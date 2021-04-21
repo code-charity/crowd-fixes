@@ -25,7 +25,7 @@ Today I claim a new word!   "**UserTweaks**"  <br> (to tweak: _"improve (a mecha
 The google analytics filter field is very small since ages. It also is very far on the right. 
 <br><br><br><br> Lets make it just a little better: 
 <br><br><br> The following two github standard labels can be boring / unnecessary to watch, so lets make them just a bit less visible: <br> <img width="185" alt="github standard labels" src="https://user-images.githubusercontent.com/25022245/115553356-9eab4b00-a2ad-11eb-9c1e-e06fc2f23a93.png"><img  align="center" width="195" alt="help wanted good first issue" src="https://user-images.githubusercontent.com/25022245/115553361-9f43e180-a2ad-11eb-8fb8-6a6aded8f703.png">
-<br><br>Youtube's sidebar is very bold and contrasty, compared to actuall videos. Lets counter balance that by just 12% transparency: `#secondary {opacity:0.88}`
+<br><br>Youtube's sidebar is very bold and contrasty, compared to actuall videos. Lets counter balance that by just 12% transparency: <code> #secondary {opacity:0.88} </code>
 <br> <img width="213" alt="youtube related videos sidebar" src="https://user-images.githubusercontent.com/25022245/115606631-3e83cb80-a2e4-11eb-8ceb-9058c8115c76.png">
    
 ### Method:
