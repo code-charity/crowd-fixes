@@ -3,7 +3,7 @@
 ## UserTweaks  
 _vs UserScripts vs UserStyles_
 
-Today I claim a new word:   "**UserTweaks**" !  <br> (to tweak: _"improve (a mechanism or system) by making fine adjustments to it."_) <br>
+Today I claim a new word!   "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system) by making fine adjustments to it."_) <br>
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
 ### **Idea:**  Crowd-Sourcing CSS Tweaks. The web as a CSS collaboration / wiki. 
@@ -20,6 +20,7 @@ Today I claim a new word:   "**UserTweaks**" !  <br> (to tweak: _"improve (a mec
 ( vs. UserStyles(.org): Currently mostly themes / playful. )
 
 ### lets collect some candidates / examples:
+Youtube's sidebar is very bold and contrasty, compared to actuall videos. Lets counter balance that by just 12% transparency: `#secondary {opacity:0.88}`
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 The google analytics filter field is very small since ages. It also is very far on the right. 
@@ -28,6 +29,7 @@ The google analytics filter field is very small since ages. It also is very far 
    
 ### Method:
 for now this extension is all needed: https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl ( https://github.com/victor-savinov/dark-mode/ )
+<br> <img width="213" alt="youtube related videos sidebar" src="https://user-images.githubusercontent.com/25022245/115606631-3e83cb80-a2e4-11eb-8ceb-9058c8115c76.png">
 <br><code> .ID-filterBox { width:190px !important;  font-size: 14px !important;  height: 21px !important;} </code><br>
 <img width="217" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115553355-9d7a1e00-a2ad-11eb-95a0-797a8aacb266.png">
 <img  width="218" alt="usertweaks user styles" src="https://user-images.githubusercontent.com/25022245/115553357-9eab4b00-a2ad-11eb-86b9-611129f197e0.png">
