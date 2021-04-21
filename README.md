@@ -10,11 +10,11 @@ Today I claim a new word!   "**UserTweaks**"  <br> (to tweak: _"improve (a mecha
 ### Scheme, Rule of the game: 
 - Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked later/twice. Disabling a tweak might change your vote to "No". 
      - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
-     - Deleting useless things 
-     - Enlarging tiny inputs 
-     - Correcting fake news in place
-     - 'Online-StreetArt'
-     - ...
+        - Deleting useless things 
+        - Enlarging tiny inputs 
+        - Correcting fake news in place
+        - 'Online-StreetArt'
+        - ...
 
 ( vs. UserScripts: Require security review.    Same as browser extensions. )
 ( vs. UserStyles(.org): Currently mostly themes / playful. )
