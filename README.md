@@ -3,13 +3,10 @@
 ## UserTweaks  
 _vs UserScripts vs UserStyles_
 
-I claim a new word:   "**UserTweaks**" !  <br> (to tweak: _"improve (a mechanism or system) by making fine adjustments to it."_) <br>
+Today I claim a new word:   "**UserTweaks**" !  <br> (to tweak: _"improve (a mechanism or system) by making fine adjustments to it."_) <br>
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
-- vs. UserScripts: Require security review.    Same as browser extensions. (Might be a source.)
-- vs. UserStyles(.org): Currently mostly themes / playful.  (Might be a source.)
-
-### **Idea:**  Crowd-Sourcing CSS Tweaks. The web as a CSS Collaboration / Wiki. 
+### **Idea:**  Crowd-Sourcing CSS Tweaks. The web as a CSS collaboration / wiki. 
 ### Scheme, Rule of the game: 
 - Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked later/twice. Disabling a tweak might change your vote to "No". 
      - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
@@ -19,7 +16,10 @@ I claim a new word:   "**UserTweaks**" !  <br> (to tweak: _"improve (a mechanism
      - 'Online-StreetArt'
      - ...
 
-### Lets collect some candidates / examples:
+( vs. UserScripts: Require security review.    Same as browser extensions. )
+( vs. UserStyles(.org): Currently mostly themes / playful. )
+
+### lets collect some candidates / examples:
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 The google analytics filter field is very small since ages. It also is very far on the right. 
