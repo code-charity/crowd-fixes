@@ -10,7 +10,7 @@ Herewith I claim a new word:   "**UserTweaks**" !  <br> to tweak: _"improve (a m
 - vs. UserStyles(.org): Currently mostly themes / playful.  (Might be a source.)
 
 ## Scheme, Rule of the game: 
-- Everybody gets every tweak, as long as it is voted in consensus >80% "Yes" or "Yes, global".  Every user can be asked later/twice. Disabling a tweak can overwrites your vote to "No". To support a mildly inclusive/tolerant atmosphere
+- Everybody gets every tweak, as long as it is voted in consensus >80% "Yes" or "Yes, global".  Every user can be asked later/twice. Disabling a tweak might change your vote to "No", to support a mildly inclusive/tolerant atmosphere
    - This will motivate unexpected help & wonderful creativitiy: 
      - Deleting useless things 
      - Enlarging tiny inputs 
