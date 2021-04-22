@@ -6,7 +6,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
 ### **Idea:**  
-**Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  One-fit-all. The web as a CSS collaboration / wiki.**
+> ### **Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  One-fit-all. The web as a CSS collaboration / wiki.**
 ### Scheme, rule of the game: 
 - Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked again later. Disabling a tweak might change your vote to "No". 
      - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
