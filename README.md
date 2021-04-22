@@ -2,7 +2,7 @@
 
 ## UserTweaks  
 
-A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system) by making fine adjustments to it."_) <br>
+A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system) by making **fine** adjustments to it."_) <br>
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
 ### **Idea:**  
