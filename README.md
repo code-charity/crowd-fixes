@@ -19,7 +19,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 ( vs. UserScripts: Require security review.  Same as browser extensions. )
 ( vs. UserStyles.org: None code adjustability. Currently mostly themes / playful. )
 
-### lets collect some candidates / examples:
+### let's collect candidates / examples:
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 The google analytics filter field is very small since ages. It also is very far on the right. 
