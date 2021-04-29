@@ -17,7 +17,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
         - ...
 
 ( vs. UserScripts: Require security review.  Same as browser extensions. )
-( vs. UserStyles.org: None code adjustability. Currently mostly themes / playful. )
+( vs. UserStyles.org: Currently mostly themes / playful.  Easy adjustability tho! )
 
 ### let's collect candidates / examples:
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
