@@ -19,7 +19,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 
    - **i.e. a one-fit-all crowdsourced game/rule included and no login required.** 
      - Not just for devs like: [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass](https://github.com/webextensions/live-css-editor) 
-      - Nor "Remix the web"-niche for style-nerds like [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css- editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
+      - Nor "Remix the web"-niche for style-nerds like [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
      - **vs.** [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already) 
      - **vs.** [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
 
