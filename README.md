@@ -6,7 +6,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
 ### **Idea:**  
-> ### **Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  One-fit-all. The web as a CSS(/js)-collaboration / wiki **
+> ### **Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  One-fit-all. The web as a CSS(/js)-collaboration / wiki**
 **Scheme, rule of the game:** 
 - Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked again later. Disabling a tweak might change your vote to "No". 
      - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
@@ -15,13 +15,13 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
         - Correcting fake news in place
         - 'Online-StreetArt'
         - ...
-- JS tweaks are optional and/or require higher/better consensus/voting
+    - JS tweaks are optional and/or require higher/better consensus/voting than just css
 
-i.e. a one-fit-all crowdsourced game/rule included and no login required.  
-Not just for devs like: [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) [live css,less,sass](https://github.com/webextensions/live-css-editor)
-Nor "Remix the web"-niche for style-nerds like [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)   
-**vs.** [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already)
-**vs.** [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
+   - **i.e. a one-fit-all crowdsourced game/rule included and no login required.** 
+     - Not just for devs like: [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass](https://github.com/webextensions/live-css-editor) 
+      - Nor "Remix the web"-niche for style-nerds like [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css- editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
+     - **vs.** [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already) 
+     - **vs.** [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
 
 
 ### let's collect examples:
