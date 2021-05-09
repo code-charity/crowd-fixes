@@ -15,7 +15,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
         - Correcting fake news in place
         - 'Online-StreetArt'
         - ...
-    - JS tweaks are optional and/or require higher/better consensus/voting than just css
+    - JS tweaks are optional and/or require higher/better consensus/voting than just css or html (with no external sources)
 
    - **i.e. a one-fit-all crowdsourced game/rule included and no login required.** 
      - Not only for devs [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass:octocat:](https://github.com/webextensions/live-css-editor) 
