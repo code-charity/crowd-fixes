@@ -16,10 +16,13 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
         - 'Online-StreetArt'
         - ...
 
-( vs. UserScripts: Require security review.  Same as browser extensions. )
-( vs. UserStyles.org: Currently mostly themes / playful.  Easy adjustability tho! )
+i.e. [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
+with one-fit-all crowdsourced game rule and no login required. 
+vs. [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already)
+vs. [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
 
-### let's collect candidates / examples:
+
+### let's collect examples:
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 <b>1.</b> The google analytics filter field is very small since ages. It also is very far on the right. 
@@ -31,7 +34,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 <img width="185" alt="github standard labels" src="https://user-images.githubusercontent.com/25022245/115553356-9eab4b00-a2ad-11eb-9c1e-e06fc2f23a93.png"> <img width="195" alt="help wanted good first issue" src="https://user-images.githubusercontent.com/25022245/115553361-9f43e180-a2ad-11eb-8fb8-6a6aded8f703.png">
 
    
-### Method:
+### Current method:
 for now this extension is all needed: https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl  ( https://github.com/victor-savinov/dark-mode/ )
 
 
