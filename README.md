@@ -16,8 +16,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
         - 'Online-StreetArt'
         - ...
 
-i.e. [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
-with one-fit-all crowdsourced game rule and no login required. 
+i.e. [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)  but with a one-fit-all crowdsourced game/rule included and no login required.  (Not just a "Remix the web"-niche for style-nerds)
 vs. [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already)
 vs. [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
 
