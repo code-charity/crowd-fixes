@@ -18,8 +18,8 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
     - JS tweaks are optional and/or require higher/better consensus/voting than just css
 
    - **i.e. a one-fit-all crowdsourced game/rule included and no login required.** 
-     - Not just for devs like: [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass](https://github.com/webextensions/live-css-editor) 
-      - Nor "Remix the web"-niche for style-nerds like [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
+     - Not only for devs ( [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass:octocat:](https://github.com/webextensions/live-css-editor) 
+     - Nor "Remix the web"-niche for style-nerds [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
      - **vs.** [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already) 
      - **vs.** [UserScripts](https://greasyfork.org) (Require security review.  Same as browser extensions. )
 
@@ -37,8 +37,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 
    
 ### Current method:
-for now this extension is all needed: https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl  ( https://github.com/victor-savinov/dark-mode/ )
-
+Our extension: https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl  ( https://github.com/victor-savinov/dark-mode/ )
 
 <img width="217" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115553355-9d7a1e00-a2ad-11eb-95a0-797a8aacb266.png">  <img width="213" alt="youtube related videos sidebar" src="https://user-images.githubusercontent.com/25022245/115606631-3e83cb80-a2e4-11eb-8ceb-9058c8115c76.png"> <img  width="218" alt="usertweaks user styles" src="https://user-images.githubusercontent.com/25022245/115553357-9eab4b00-a2ad-11eb-86b9-611129f197e0.png"> 
 <br> 
