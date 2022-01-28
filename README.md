@@ -36,12 +36,10 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 
 <img width="185" alt="github standard labels" src="https://user-images.githubusercontent.com/25022245/115553356-9eab4b00-a2ad-11eb-9c1e-e06fc2f23a93.png"> <img width="195" alt="help wanted good first issue" src="https://user-images.githubusercontent.com/25022245/115553361-9f43e180-a2ad-11eb-8fb8-6a6aded8f703.png">
 
-   
-### Current method:
-Our extension: https://chrome.google.com/webstore/detail/dark-mode/declgfomkjdohhjbcfemjklfebflhefl  ( https://github.com/victor-savinov/dark-mode/ )
-
 <img width="217" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115553355-9d7a1e00-a2ad-11eb-95a0-797a8aacb266.png">  <img width="213" alt="youtube related videos sidebar" src="https://user-images.githubusercontent.com/25022245/115606631-3e83cb80-a2e4-11eb-8ceb-9058c8115c76.png"> <img  width="218" alt="usertweaks user styles" src="https://user-images.githubusercontent.com/25022245/115553357-9eab4b00-a2ad-11eb-86b9-611129f197e0.png"> 
-<br> 
+
+### (Current method: Our extension: https://github.com/victor-savinov/dark-mode/ )
+
 -----
 
 https://www.reddit.com/r/UserTweaks/
