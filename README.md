@@ -38,7 +38,7 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 
 <img width="217" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115553355-9d7a1e00-a2ad-11eb-95a0-797a8aacb266.png">  <img width="213" alt="youtube related videos sidebar" src="https://user-images.githubusercontent.com/25022245/115606631-3e83cb80-a2e4-11eb-8ceb-9058c8115c76.png"> <img  width="218" alt="usertweaks user styles" src="https://user-images.githubusercontent.com/25022245/115553357-9eab4b00-a2ad-11eb-86b9-611129f197e0.png"> 
 
-### (Current method: Our extension: https://github.com/victor-savinov/dark-mode/ )
+**(Current method: Our extension: https://github.com/victor-savinov/dark-mode/ )**
 
 -----
 
