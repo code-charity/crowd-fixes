@@ -7,16 +7,17 @@ A new word:  "**UserTweaks**"  <br> (to tweak: _"improve (a mechanism or system)
 
 ### **Idea:**  
 > ### **Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  One-fit-all. The web as a CSS(/js)-collaboration / wiki**
-**Scheme, rule of the game:** 
-- Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked again later. Disabling a tweak might change your vote to "No". 
+**Scheme:** 
+- Rule of the game: Everybody gets every tweak, as long as it is voted in consensus >80% "Yes".  Every user can be asked again later. Disabling a tweak might change your vote to "No". 
      - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
         - Deleting useless things 
         - Enlarging tiny inputs 
         - Correcting fake news in place
         - 'Online-StreetArt'
         - ...
+    - **Holy-Grail**: Rules that will be applied globally (if any) or on wide URL-matches such as *.org|edu|gov.  
     - JS tweaks are optional and/or require higher/better consensus/voting than just css or html (with no external sources)
-
+    - ----------
    - **i.e. a one-fit-all crowdsourced game/rule included and no login required.** 
      - Not only for devs [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass:octocat:](https://github.com/webextensions/live-css-editor) 
      - Nor "Remix the web"-niche for style-nerds [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) 
