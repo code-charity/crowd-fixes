@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=iOucwX7Z1HU
 Tweaks for everybody.   -  If we can achieve that, can we also make the community of volunteers grow/prosper from it? 
 Or must we tolerate, if our work will be implemented by the originals, (after we prove it right, yet) without giving us credit?
 
-**Scheme:** 
-- "Rule of the game": Everybody runs every tweak out of a pool/catalogue, as long as that is was voted in near consensus by the community:  >80%  "Yes".  Every user can be asked again later. (Disabling a tweak will also automatically change your vote to "No")  (no login/key required if no/little incentive in manipulation.)
+**Scheme / "Rule of the game": 
+Everybody runs every tweak out of a pool/catalogue, that is was voted up, near consensus by the community:  >80%  "Yes".  Every user can be asked again later. (Disabling a tweak will also automatically change your vote to "No")  (no login/key required if no/little incentive in manipulation.)
     - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
         - Deleting useless things 
         - Enlarging tiny inputs
