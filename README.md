@@ -1,16 +1,17 @@
-**Wisdome Of The Crowd **https://www.youtube.com/watch?v=iOucwX7Z1HU  -  _`Crowdsource (y)our view`_
+**Wisdome Of The Crowd:**   
+https://www.youtube.com/watch?v=iOucwX7Z1HU  
 
-## "CollectiveTweaks"   
+## "CollectiveTweaks"  -  _`Crowdsource (y)our view`_  
 
  - A new word. (Easier than "userScripts", more relevant/functional than "userStyles", but especially a collective crowd effort) <br> (to tweak: _"improve (a mechanism or system) by making **fine** adjustments to it."_) <br>
 <img width="500" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 
 ### **Idea:**  
-> ### Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  <br> - One-fit-all. The web as a CSS(/js)-collaboration / wiki  
+### Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  <br> - One-fit-all. The web as a CSS(/js)-collaboration / wiki  
 
 **Mandate:**
-Tweaks for everybody.    If we can achieve that, can we als make the community of volunteers grow / prosper from it? 
-Or must we tolerate, if our work will be implemented by the originals, after we prove it right & without giving us credit.
+Tweaks for everybody.   -  If we can achieve that, can we also make the community of volunteers grow/prosper from it? 
+Or must we tolerate, if our work will be implemented by the originals, after we prove it right, yet without giving us credit.
 
 **Scheme:** 
 - "Rule of the game": Everybody runs every tweak out of a pool/catalogue, as long as that is was voted in near consensus by the community:  >80%  "Yes".  Every user can be asked again later. (Disabling a tweak will also automatically change your vote to "No")  (no login/key required if no/little incentive in manipulation.)
