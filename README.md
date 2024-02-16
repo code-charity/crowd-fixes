@@ -30,7 +30,9 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
      - Not only for devs [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass:octocat:](https://github.com/webextensions/live-css-editor) 
      - Nor "Remix the web"-niche for style-nerds [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
-#  Some examples (/attempts/drafts) :
+----
+
+###  Just some quick examples (/attempts/drafts) :
 <img align="right" width="546" alt="google analytics too small" src="https://user-images.githubusercontent.com/25022245/115553367-9fdc7800-a2ad-11eb-8d86-9b5ac951e457.png"> 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 <b>1.</b> The google analytics filter field is very small since ages. It also is very far on the right. 
