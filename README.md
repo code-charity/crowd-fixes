@@ -24,6 +24,7 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
 -------------
 
    - In other words:
+     - compare: https://github.com/letsblockit/letsblockit 
      -   Similar: UserScripts & UserStyles but pragmatic, with voting resulting in collectively running  things & little effort per person
          - [UserScripts](https://greasyfork.org) (Often require some review, same as browser extensions. ) 
          - [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already) 
