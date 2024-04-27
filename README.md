@@ -1,24 +1,26 @@
 
 ## "CollectiveTweaks"  -  _`Crowdsource (y)our view`_    
+<i>
+/ 'Crowd Fixes'? - A new word? 
+( "User tweaks", easier than "user scripts", but universally relevant/functional  and  a collective crowd effort) (unlike "user styles" for specific tastes). <br>
+<img width="420" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
+</i>
 
-/ 'Crowd Fixes' / UserTweaks? - A new word? Easier than "userScripts"; universally relevant/functional unlike "userStyles", but especially a collective crowd effort <br> (to tweak: _"improve (a mechanism or system) by making **fine** adjustments to it."_) <br>
-<img width="370" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
+<b> `IDEA:`   Crowd-Sourcing universal CSS improvements or annotations to refine, renew, reimagine the web.  <br> - One-fit-all. The web as collaboration / wiki  </b>
 
-## **Idea:**  
-### Crowd-Sourcing universal CSS Tweaks to refine, renew, reimagine the web.  <br> - One-fit-all. The web as a CSS(/js)-collaboration / wiki  
-
-- **Mandate:** Tweaks for everybody.   (If we can achieve the best, can we also make the community of volunteers grow/prosper from it? 
+- **Mandate:** Tweaks for everybody.<br> 
+- **Debate:** If we can achieve the best, then can we also make the community of volunteers grow/prosper from it? 
 Or must we tolerate, if our work will be implemented by the originals, after we prove it right, without giving us credit?)
 
-- **Scheme / "Rules of the game":**  Everybody runs every tweak out of a pool/catalogue, that is was voted up, democratically or near consensus by the community, i.e.  >70%  "Yes", while  quickly disabling a tweak could also inevitably change one's vote to "No". Collecting at least 100 votes for each, by users/volunteers & revisors/developers. ( * Wisdom Of The Crowd:  https://www.youtube.com/watch?v=iOucwX7Z1HU) (User IDs could be random, data could be public, on a central server or in a blockchain / L2 blockchain)
-    - This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
+- **Scheme / "Rules of the game":**  Everybody runs every tweak out of a pool/catalogue, that is was voted up, democratically or near consensus by the community, i.e.  >80%  "Yes", while  quickly disabling a tweak could also inevitably change one's vote to "No". Collecting at least 100 votes for each, by users/volunteers & revisors/developers. ( * Wisdom Of The Crowd:  https://www.youtube.com/watch?v=iOucwX7Z1HU) (User IDs could be random, data could be public, on a central server or in a blockchain / L2 blockchain)
+    - **1.** This will motivate thoughtfulness, unexpected help, wonderful creativitiy: 
         - Deleting useless things 
-        - Enlarging tiny inputs
+        - Enlarging tiny inputs & Auto-focus if they are the only input.
         - Web-street art.
         - Correcting fake news in place.
         - ...
-   - (Most rules will be per domain. Could any tweak be applied both for everybody AND on wide URL-range, such as *.org|edu|gov. "Holy-Grail"?)
-   - **2.** There can be specific rule sets, as in Adblockers.  For example one called "Brand-Me-Not" or "Logo-Hater", removing commercial logos, (Except those that >70% of users think should not be removed/are relevant content, very social or very small companies). (This/such rule-set as a whole in turn might not be wanted by more than 80% of people, so that it will be at risk of becoming optional opt-in. But could keep the same votings per tweak within at the general ones.)
+          - (Most rules will be per domain. Could any tweak be applied both for everybody AND on wide URL-range, such as *.org|edu|gov. "Holy-Grail"?)
+   - **2.** There can be specific rule sets, as in Adblockers.  For example one called "Brand-Me-Not" or "Logo-Hater", removing commercial logos, (Except those that >80% of users think should not be removed/are relevant content, very social or very small companies). (This/such rule-set as a whole in turn might not be wanted by more than >80% of people, so that it will be at risk of becoming optional opt-in. But the same type of consensus-mechanism could run on a second level.)
 
 -------------
 -------------
@@ -27,7 +29,7 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
      - compare: https://github.com/letsblockit/letsblockit 
      -   Similar: UserScripts & UserStyles but pragmatic, with voting resulting in collectively running  things & little effort per person
          - [UserScripts](https://greasyfork.org) (Often require some review, same as browser extensions. ) 
-         - [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already) 
+         - [UserStyles.org](https://userstyles.org) (Currently mostly themes/playful. Easy adjustability tho already.) 
      - Not only for devs [css-peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk), [user js&css](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld), [Live css,less,sass:octocat:](https://github.com/webextensions/live-css-editor) 
      - Nor "Remix the web"-niche for style-nerds [chrome.google/webstore/amino-live-css](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
