@@ -19,8 +19,9 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
         - Web-street art.
         - Correcting fake news in place.
         - ...
-          - (Most rules will be per domain. Could any tweak be applied both for everybody AND on wide URL-range, such as *.org|edu|gov. "Holy-Grail"?)
-   - **2.** There can be specific rule sets, as in Adblockers.  For example one called "Brand-Me-Not" or "Logo-Hater", removing commercial logos, (Except those that >20% of users think should not be removed/are relevant content, very social or very small companies). This set as a whole in might not be wanted by more than >80% of people, so that it will be at risk of becoming optional opt-in. Yet a 2nd-level (another consensus within), will raise the value of the whole, so that it might be visible enough. While 2nd-level thresholds could be auto-adjusted to optimize the overall-acceptance of a set.)
+   - **2.** There can be specific rule sets, as in Adblockers. For example one called "Brand-Me-Not" or "Logo-Hater", removing logos in the top left of websites. (Except those that >20% of users whitelist and think of as relevant content (be it for being non-profits, social or small enough, or so). While this set-example as a whole might not be wanted by more than >80% of people, so that it will be at risk of becoming optional opt-in. Yet a 2nd-level (another consensus within), will raise the value of the whole, so that it might be visible enough. While 2nd-level thresholds could be auto-adjusted to optimize the overall-acceptance of a set.)
+   - **3.** Most tweaks will be per domain, yet can any be applied for a wide URL-range? ( Such as .edu? - And for everybody - "Holy-Grail"?). 
+      - ("Brand-Me-Not", may be half-done with <code><code> body :nth-child(-n+5){ \*[id="logo"], img[src^="logo."], img[src*="/logo."], \*[href="#"] \*, \*[href="/"] \*, \*:not([class~=" "]).logo, [id="logo"], :is(img)[src^="logo."], :is(img)[src\*="/logo."], [href="#"] \*, [href="/"] \*, :not([class~=" "]).logo {display:none}</code></code>) 
 
 -------------
 -------------
