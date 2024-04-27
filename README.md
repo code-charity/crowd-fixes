@@ -38,10 +38,12 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
 <img align="right" width="523" alt="google analytics filter" src="https://user-images.githubusercontent.com/25022245/115553364-9f43e180-a2ad-11eb-91f2-faf7d2f63272.png"> 
 <b>1.</b> The google analytics filter field is very small since ages. It also is very far on the right. 
 <br><br><br> Lets make it just a little better: <code> .ID-filterBox { width:190px !important;  font-size: 14px !important;  height: 21px !important;} </code><br>
-<br><br><br><b>2.</b> Youtube's sidebar is very bold and contrasty, compared to actuall videos. Lets counter balance that by just 12% transparency: <code> #secondary {opacity:0.88} </code><br> <br> <b>3.</b> The following two github standard labels can be boring / unnecessary to watch, so lets make them just a bit less visible: <br>
-<code> a[data-name^='help wanted'], a[data-name^='good first issue'] {opacity: 0.80; transform:scale(0.96);} </code>
+<br> <br> <b>2.</b> The following two github standard labels can be boring / unnecessary to watch, so lets make them just a bit less visible: <br>
 
 <img width="285" alt="github standard labels" src="https://user-images.githubusercontent.com/25022245/115553356-9eab4b00-a2ad-11eb-9c1e-e06fc2f23a93.png"> <img width="295" alt="help wanted good first issue" src="https://user-images.githubusercontent.com/25022245/115553361-9f43e180-a2ad-11eb-8fb8-6a6aded8f703.png">
+<br><br><b>3.</b> Youtube's sidebar is very bold and contrasty, compared to actuall videos. Lets counter balance that by just 12% transparency: <code> #secondary {opacity:0.88} </code>
+<code> a[data-name^='help wanted'], a[data-name^='good first issue'] {opacity: 0.80; transform:scale(0.96);} </code>
+
 
 ###  Testing methods: 
   -  uBlock Origin or https://github.com/code-charity/dark-mode/
