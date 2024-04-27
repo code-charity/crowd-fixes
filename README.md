@@ -1,7 +1,7 @@
 
-## "CollectiveTweaks"  -  _`Crowdsource (y)our view`_    
+## "Crowd Fixes"  -  _`Crowdsource (y)our view`_    
 <i>
-/ 'Crowd Fixes'? - a new word. Easier than "user scripts", but universally relevant/functional  and  a collective crowd effort) (unlike "user styles" for specific tastes). <br>
+ - a new word. Collective tweaks Easier than "user scripts", but universally relevant/functional  and  a collective crowd effort) (unlike "user styles" for specific tastes). <br>
 <img width="420" alt="usertweaks" src="https://user-images.githubusercontent.com/25022245/115540770-a7485500-a29e-11eb-9a98-c54a7a3823fb.png"><br>
 </i>
 
