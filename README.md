@@ -20,7 +20,7 @@ Or must we tolerate, if our work will be implemented by the originals, after we 
         - Correcting fake news in place.
         - ...
           - (Most rules will be per domain. Could any tweak be applied both for everybody AND on wide URL-range, such as *.org|edu|gov. "Holy-Grail"?)
-   - **2.** There can be specific rule sets, as in Adblockers.  For example one called "Brand-Me-Not" or "Logo-Hater", removing commercial logos, (Except those that >80% of users think should not be removed/are relevant content, very social or very small companies). (This/such rule-set as a whole in turn might not be wanted by more than >80% of people, so that it will be at risk of becoming optional opt-in. But the same type of consensus-mechanism could run on a second level.)
+   - **2.** There can be specific rule sets, as in Adblockers.  For example one called "Brand-Me-Not" or "Logo-Hater", removing commercial logos, (Except those that >20% of users think should not be removed/are relevant content, very social or very small companies). This set as a whole in might not be wanted by more than >80% of people, so that it will be at risk of becoming optional opt-in. Yet a 2nd-level (another consensus within), will raise the value of the whole, so that it might be visible enough. While 2nd-level thresholds could be auto-adjusted to optimize the overall-acceptance of a set.)
 
 -------------
 -------------
